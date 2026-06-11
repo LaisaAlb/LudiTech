@@ -172,13 +172,13 @@ src/
 ## Clonar o Repositório
 
 ```bash
-git clone https://github.com/Luiiza-Albuquerque/luditech.git
+git clone https://github.com/Luiiza-Albuquerque/LudiTech.git
 ```
 
 ## Entrar na Pasta do Projeto
 
 ```bash
-cd luditech
+cd LudiTech
 ```
 
 ## Instalar as Dependências
@@ -213,7 +213,11 @@ Para visualizar a versão de produção localmente:
 npm run preview
 ```
 
----
+### Deploy da Aplicação
+
+```bash
+https://ludi-tech.vercel.app
+```
 
 # 📝 Banco de Perguntas
 
