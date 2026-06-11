@@ -1,0 +1,1 @@
+import { Routes, Route } from "react-router-dom"; import Setup from "../pages/Setup"; import Game from "../pages/Game"; import Winner from "../pages/Winner"; export function AppRoutes() { return ( <Routes> <Route path="/" element={<Setup />} /> <Route path="/game" element={<Game />} /> <Route path="/winner" element={<Winner />} /> </Routes> ); }

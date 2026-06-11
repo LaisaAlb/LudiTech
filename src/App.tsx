@@ -1,0 +1,15 @@
+import { BrowserRouter } from "react-router-dom";
+import { GameProvider } from "./context/GameContext";
+import { AppRoutes } from "./routes/AppRoutes";
+
+function App() {
+  return (
+    <BrowserRouter>
+      <GameProvider>
+        <AppRoutes />
+      </GameProvider>
+    </BrowserRouter>
+  );
+}
+
+export default App;

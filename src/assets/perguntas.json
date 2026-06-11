@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Qual linguagem é executada diretamente pelo navegador?",
+    "resposta": "JavaScript"
+  },
+  {
+    "id": 2,
+    "pergunta": "O que significa HTML?",
+    "resposta": "HyperText Markup Language"
+  },
+  {
+    "id": 3,
+    "pergunta": "Qual comando do Git envia alterações para o repositório remoto?",
+    "resposta": "Push"
+  },
+  {
+    "id": 4,
+    "pergunta": "Qual é a porta padrão do HTTP?",
+    "resposta": "80"
+  },
+  {
+    "id": 5,
+    "pergunta": "Qual protocolo é usado para navegar na internet?",
+    "resposta": "HTTP"
+  },
+  {
+    "id": 6,
+    "pergunta": "O que significa WWW?",
+    "resposta": "World Wide Web"
+  },
+  {
+    "id": 7,
+    "pergunta": "Qual protocolo é usado para tradução de nomes em IPs?",
+    "resposta": "DNS"
+  },
+  {
+    "id": 8,
+    "pergunta": "Qual linguagem é usada em bancos de dados relacionais?",
+    "resposta": "SQL"
+  },
+  {
+    "id": 9,
+    "pergunta": "Qual cientista é considerado o pai da computação?",
+    "resposta": "Turing"
+  },
+  {
+    "id": 10,
+    "pergunta": "Qual é o endereço IP de localhost?",
+    "resposta": "127.0.0.1"
+  },
+  {
+    "id": 11,
+    "pergunta": "Em programação, qual nome da função que o código executa repetidamente?",
+    "resposta": "Loop"
+  },
+  {
+    "id": 12,
+    "pergunta": "Qual é o sistema operacional móvel mais utilizado no mundo?",
+    "resposta": "Android"
+  },
+  {
+    "id": 13,
+    "pergunta": "O que significa a sigla SQL?",
+    "resposta": "Structured Query Language"
+  },
+  {
+    "id": 14,
+    "pergunta": "Qual o nome do modelo conceitual de rede que possui 7 camadas?",
+    "resposta": "Modelo OSI"
+  },
+  {
+    "id": 15,
+    "pergunta": "Qual banco de dados é famoso pelo mascote golfinho?",
+    "resposta": "MySQL"
+  },
+  {
+    "id": 16,
+    "pergunta": "Qual linguagem é usada para estruturar páginas web?",
+    "resposta": "HTML"
+  },
+  {
+    "id": 17,
+    "pergunta": "O que significa IDE?",
+    "resposta": "Integrated Development Environment"
+  },
+  {
+    "id": 18,
+    "pergunta": "Qual é o formato de dados baseado em texto mais usado para integrar sistemas e APIs?",
+    "resposta": "JSON"
+  },
+  {
+    "id": 19,
+    "pergunta": "Qual estrutura é usada para tomar decisões em programação?",
+    "resposta": "if"
+  },
+  {
+    "id": 20,
+    "pergunta": "Qual símbolo indica o início de uma tag HTML?",
+    "resposta": "<"
+  },
+  {
+    "id": 21,
+    "pergunta": "Qual símbolo indica o fim de uma tag HTML?",
+    "resposta": ">"
+  },
+  {
+    "id": 22,
+    "pergunta": "Qual equipamento distribui internet sem fio?",
+    "resposta": "Roteador"
+  },
+  {
+    "id": 23,
+    "pergunta": "Qual número identifica um dispositivo na rede?",
+    "resposta": "IP"
+  },
+  {
+    "id": 24,
+    "pergunta": "Qual componente armazena dados temporariamente?",
+    "resposta": "RAM"
+  },
+  {
+    "id": 25,
+    "pergunta": "Qual componente executa instruções do computador?",
+    "resposta": "CPU"
+  },
+  {
+    "id": 26,
+    "pergunta": "Qual dispositivo exibe imagens ao usuário?",
+    "resposta": "Monitor"
+  },
+  {
+    "id": 27,
+    "pergunta": "Qual o termo usado para a chave que identifica unicamente um registro em uma tabela SQL?",
+    "resposta": "Chave Primária"
+  },
+  {
+    "id": 28,
+    "pergunta": "Qual comando SQL é usado para buscar dados em uma tabela?",
+    "resposta": "SELECT"
+  },
+  {
+    "id": 29,
+    "pergunta": "Em programação, qual o nome do tipo de dado que aceita apenas Verdadeiro ou Falso?",
+    "resposta": "Booleano"
+  },
+  {
+    "id": 30,
+    "pergunta": "Em que base numérica o computador processa as informações internamente?",
+    "resposta": "Binária"
+  }
+]
